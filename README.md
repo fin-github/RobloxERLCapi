@@ -11,9 +11,9 @@ Current features:
 - Send Base ER:LC Post Requests
 
 ## Setup
-1. Put the `ERLCAPI.modulescript` inside of the ServerScript Service. Like this:
+1. Put the `ERLCAPI.lua` inside of the ServerScript Service. Like this:
 ![image](https://github.com/fin-github/RobloxERLCapi/assets/70870542/8fe40c80-dce0-4771-9ee0-f819f0166009)
-2. Open the `ERLCAPI.modulescript` file fill out this:
+2. Open the `ERLCAPI.lua` file fill out this:
 ```lua
 erlcapi.serverkey = "YOUR SERVER KEY"
 ```
